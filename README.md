@@ -7,5 +7,5 @@ Proeto desenvolvido durante o curso [B7Web](https://b7web.com.br).
 ### Instalação
 - `npm install`
 
-###Para rodar
+### Para rodar
 - `npm start`
