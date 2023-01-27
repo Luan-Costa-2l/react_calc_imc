@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./build/static/css/main.dc6270a0.css",
-    "main.js": "./build/static/js/main.7d4e8e88.js",
-    "static/js/787.10a56187.chunk.js": "./build/static/js/787.10a56187.chunk.js",
-    "static/media/powered.png": "./build/static/media/powered.31688c4f015d2f42e203.png",
-    "index.html": "./build/index.html",
-    "main.dc6270a0.css.map": "./build/static/css/main.dc6270a0.css.map",
-    "main.7d4e8e88.js.map": "./build/static/js/main.7d4e8e88.js.map",
-    "787.10a56187.chunk.js.map": "./build/static/js/787.10a56187.chunk.js.map"
+    "main.css": "/%7Bnome-do-repositorio%7D/static/css/main.dc6270a0.css",
+    "main.js": "/%7Bnome-do-repositorio%7D/static/js/main.80dbc45e.js",
+    "static/js/787.10a56187.chunk.js": "/%7Bnome-do-repositorio%7D/static/js/787.10a56187.chunk.js",
+    "static/media/powered.png": "/%7Bnome-do-repositorio%7D/static/media/powered.31688c4f015d2f42e203.png",
+    "index.html": "/%7Bnome-do-repositorio%7D/index.html",
+    "main.dc6270a0.css.map": "/%7Bnome-do-repositorio%7D/static/css/main.dc6270a0.css.map",
+    "main.80dbc45e.js.map": "/%7Bnome-do-repositorio%7D/static/js/main.80dbc45e.js.map",
+    "787.10a56187.chunk.js.map": "/%7Bnome-do-repositorio%7D/static/js/787.10a56187.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc6270a0.css",
-    "static/js/main.7d4e8e88.js"
+    "static/js/main.80dbc45e.js"
   ]
 }
